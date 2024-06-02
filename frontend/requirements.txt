@@ -1,4 +1,7 @@
-Flask
-tensorflow
+streamlit
+requests
+matplotlib
+Pillow
+opencv-python-headless
 numpy
-gunicorn
+streamlit-drawable-canvas
